@@ -1,0 +1,41 @@
+body{background-color:hsl(212, 45%, 89%)}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-size: 15px;
+}
+.wrapper{
+  border:1px solid transparent;/*creates a transparent(white) border around the content*/
+  width:270px;
+  margin: 100px auto 0 auto;/*llows the box to be at the middle of the page*/
+  border-radius: 15px;
+  background-color: white;
+  text-align: center;/*puts the image and the text in the center of the box*/
+}
+img{
+  max-width:90%;/*ensures the image is not  more than 90% of its container*/
+  border-radius: 10px;
+}
+.qr-image{
+  margin: 10px 0 0 0;/*gives the image margin around it*/
+}
+#large-text{
+  margin: 20px 0 20px 0;
+  font-weight: 700;
+  font-size: 20px;
+  color: hsl(218, 44%, 22%);
+}
+#small-text{
+  font-weight: 400;
+  margin-bottom: 30px;
+  font-size: 15px;
+  color: hsla(218, 44%, 22%, 0.7);
+}
+.attribution { 
+  font-size: 11px; 
+  text-align: center;
+  margin-top: 50px;
+ }
+.attribution a { color: hsl(228, 45%, 44%); }
