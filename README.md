@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Author](#author)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Ugwoke-Nmasinachi/Task1---QR-code.git)
+- Live Site URL: [Add live site URL here](https://task1-qr-code.onrender.com)
 
 ### Dates
 - Date of Beginning the Project: 5 - 13 - 2024
